@@ -1,0 +1,19 @@
+# Detection output
+detections.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# TensorFlow Hub module cache
+tfhub_modules/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
